@@ -269,6 +269,10 @@
 
       ```
       chmod +x cuda_9.0.176_384.81_linux.run && chmod +x cuda_9.0.176.1_linux.run && chmod +x cuda_9.0.176.2_linux.run && chmod +x cuda_9.0.176.3_linux.run && chmod +x cuda_9.0.176.4_linux.run
+      
+      or
+      
+      chmod +x cuda_9.0*.run
       ```
 
       安装Cuda 9.0：
